@@ -58,6 +58,8 @@ MONGODB_URI=mongodb://localhost:27017
 - **OpenAI API**:  [OpenAI](https://platform.openai.com/)
 
 ### 4. Install Dependencies
+make sure you are in the project-main directory and then please run the usual:
+
 ```bash
 npm install
 ```
