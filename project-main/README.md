@@ -2,6 +2,10 @@
 
 This is a news analysis application that allows users to search for news articles, generate summaries, and perform sentiment analysis.
 
+
+https://github.com/user-attachments/assets/60a37fba-6743-4968-b31b-f19336c70f4c
+
+
 Had there been more time I would have:
 
 1) further broken down the App.tsx (eg. perhaps with utils folder/file for reusable behaviour)
