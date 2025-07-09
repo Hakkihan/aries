@@ -42,13 +42,7 @@ sudo service mongodb start
 ```
 
 ### 2. Environment Variables
-Copy `.env.example` to `.env` and fill in your API keys:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file:
+Add a .env file with these api keys (let me know if you need any help with this):
 ```
 VITE_GNEWS_API_KEY=gnews_api_key
 VITE_OPENAI_API_KEY=openai_api_key
