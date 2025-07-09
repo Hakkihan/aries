@@ -64,8 +64,9 @@ npm install
 
 ### 5. Start the Application
 ```bash
-npm run dev
+npm run dev: full
 ```
+the above command runs concurrently the front end and back end (look at package.json) 
 
 The application will be available at `http://localhost:5173`
 
